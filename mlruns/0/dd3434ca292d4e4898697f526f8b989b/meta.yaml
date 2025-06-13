@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/vibhu/Downloads/MLops/mlruns/0/dd3434ca292d4e4898697f526f8b989b/artifacts
+end_time: 1749846970149
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dd3434ca292d4e4898697f526f8b989b
+run_name: secretive-crane-347
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749846960876
+status: 3
+tags: []
+user_id: root

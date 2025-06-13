@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/vibhu/Downloads/MLops/mlruns/0/models/m-6c0ca130eb70451aab275af92d4341d5/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.9.0
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 3.1.0
+model_id: m-6c0ca130eb70451aab275af92d4341d5
+model_size_bytes: 503207
+model_uuid: m-6c0ca130eb70451aab275af92d4341d5
+prompts: null
+run_id: dd3434ca292d4e4898697f526f8b989b
+utc_time_created: '2025-06-13 20:36:01.186806'
