@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/vibhu/Downloads/MLops/mlruns/0/1284d63da4a046b09474cbcdb6e2607b/artifacts
+end_time: 1750072679392
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1284d63da4a046b09474cbcdb6e2607b
+run_name: sneaky-bear-969
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750072663079
+status: 3
+tags: []
+user_id: root
