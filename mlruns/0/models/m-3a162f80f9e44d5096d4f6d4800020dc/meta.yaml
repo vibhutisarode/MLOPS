@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/vibhu/Downloads/MLops/mlruns/0/models/m-3a162f80f9e44d5096d4f6d4800020dc/artifacts
+creation_timestamp: 1749847160886
+experiment_id: '0'
+last_updated_timestamp: 1749847181350
+model_id: m-3a162f80f9e44d5096d4f6d4800020dc
+model_type: null
+name: model
+source_run_id: 9210c1281c3b47aa82b5bfcae94e4f65
+status: 2
+status_message: null

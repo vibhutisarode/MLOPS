@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/vibhu/Downloads/MLops/mlruns/0/b8375136a11145ee9cdbf4c89e8f20a0/artifacts
+end_time: 1749847452063
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b8375136a11145ee9cdbf4c89e8f20a0
+run_name: nosy-smelt-329
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749847443022
+status: 3
+tags: []
+user_id: root

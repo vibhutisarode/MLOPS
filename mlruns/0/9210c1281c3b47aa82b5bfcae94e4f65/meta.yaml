@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/vibhu/Downloads/MLops/mlruns/0/9210c1281c3b47aa82b5bfcae94e4f65/artifacts
+end_time: 1749847181391
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9210c1281c3b47aa82b5bfcae94e4f65
+run_name: debonair-hen-439
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749847160709
+status: 3
+tags: []
+user_id: root
